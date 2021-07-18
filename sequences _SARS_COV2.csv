@@ -1,0 +1,501 @@
+Accession,Release_Date,Pangolin,Species,Length,Nuc_Completeness,Geo_Location,USA,Host,Isolation_Source,Collection_Date
+MZ572245.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29844,complete,USA: NE,NE,Homo sapiens,oronasopharynx,2021-06-22
+MZ572246.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29791,complete,USA: NE,NE,Homo sapiens,oronasopharynx,2021-06-21
+MZ572248.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29825,complete,USA: NE,NE,Homo sapiens,oronasopharynx,2021-06-21
+MZ572258.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29821,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-26
+MZ572260.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29849,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-27
+MZ572261.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-26
+MZ572265.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29789,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-28
+MZ572266.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29848,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-27
+MZ572268.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29809,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-27
+MZ572269.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29849,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-27
+MZ572270.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29777,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-26
+MZ572271.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-29
+MZ572272.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29809,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-27
+MZ572273.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-28
+MZ572274.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-28
+MZ572276.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29839,complete,USA: CO,CO,Homo sapiens,oronasopharynx,2021-05-27
+MZ572278.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: SD,SD,Homo sapiens,oronasopharynx,2021-06-14
+MZ572281.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29832,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572282.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-13
+MZ572284.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29777,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572285.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572286.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29824,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572288.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29829,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572289.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-14
+MZ572290.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29831,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572291.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29836,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-13
+MZ572293.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29815,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-12
+MZ572294.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-14
+MZ572295.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29844,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572297.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29800,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572298.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572299.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29836,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-14
+MZ572300.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29799,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-14
+MZ572301.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29836,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572302.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29777,complete,USA: ID,ID,Homo sapiens,oronasopharynx,2021-06-11
+MZ572304.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29827,complete,USA: LA,LA,Homo sapiens,oronasopharynx,2021-06-16
+MZ572305.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29829,complete,USA: LA,LA,Homo sapiens,oronasopharynx,2021-06-16
+MZ572308.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29851,complete,USA: LA,LA,Homo sapiens,oronasopharynx,2021-06-07
+MZ572311.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: ME,ME,Homo sapiens,oronasopharynx,2021-06-12
+MZ572314.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: OH,OH,Homo sapiens,oronasopharynx,2021-06-14
+MZ572316.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29852,complete,USA: OH,OH,Homo sapiens,oronasopharynx,2021-05-04
+MZ572318.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29831,complete,USA: OH,OH,Homo sapiens,oronasopharynx,2021-06-19
+MZ572319.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: OH,OH,Homo sapiens,oronasopharynx,2021-05-17
+MZ572321.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29800,complete,USA: OH,OH,Homo sapiens,oronasopharynx,2021-06-18
+MZ572332.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29809,complete,USA: HI,HI,Homo sapiens,oronasopharynx,2021-05-28
+MZ572333.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29826,complete,USA: HI,HI,Homo sapiens,oronasopharynx,2021-05-26
+MZ572337.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29838,complete,USA: KY,KY,Homo sapiens,oronasopharynx,2021-06-18
+MZ572339.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29836,complete,USA: RI,RI,Homo sapiens,oronasopharynx,2021-06-17
+MZ572340.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29821,complete,USA: RI,RI,Homo sapiens,oronasopharynx,2021-06-18
+MZ572341.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29821,complete,USA: RI,RI,Homo sapiens,oronasopharynx,2021-06-15
+MZ572342.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29836,complete,USA: RI,RI,Homo sapiens,oronasopharynx,2021-06-17
+MZ572344.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29829,complete,USA: CA,CA,Homo sapiens,oronasopharynx,2021-06-02
+MZ572353.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29836,complete,USA: CA,CA,Homo sapiens,oronasopharynx,2021-06-08
+MZ572357.1,2021-07-17T00:00:00Z,,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: CA,CA,Homo sapiens,oronasopharynx,2021-06-01
+MZ569366.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29799,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-28
+MZ569372.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29841,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-27
+MZ569378.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29799,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-30
+MZ569380.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29799,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-07-07
+MZ569381.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29799,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-07-06
+MZ569382.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29797,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-07-07
+MZ569383.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29796,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-07-07
+MZ569385.1,2021-07-16T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29809,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-07-03
+MZ569386.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29799,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-15
+MZ569387.1,2021-07-16T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29785,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-12
+MZ569392.1,2021-07-16T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29809,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-07-06
+MZ569393.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29797,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-27
+MZ569396.1,2021-07-16T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29810,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-30
+MZ569398.1,2021-07-16T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29799,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-07-02
+MZ562972.1,2021-07-15T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29671,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-24
+MZ564396.1,2021-07-15T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-07-02
+MZ564398.1,2021-07-15T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-07-06
+MZ564399.1,2021-07-15T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29775,complete,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-07-05
+MZ564402.1,2021-07-15T00:00:00Z,B.1,Severe acute respiratory syndrome-related coronavirus,29774,complete,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-07-07
+MZ564403.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29763,complete,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-06-30
+MZ564404.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29763,complete,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-07-08
+MZ564408.1,2021-07-15T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-07-08
+MZ564409.1,2021-07-15T00:00:00Z,B.1.628,Severe acute respiratory syndrome-related coronavirus,29768,complete,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-07-06
+MZ564414.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29763,complete,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-06-29
+MZ565746.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29809,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-21
+MZ565747.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29812,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-21
+MZ565751.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29817,complete,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-06-22
+MZ565756.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29812,complete,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-06-22
+MZ565802.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29817,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-15
+MZ565807.1,2021-07-15T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29821,complete,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-06-16
+MZ565808.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29817,complete,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-06-17
+MZ565809.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29817,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-17
+MZ565837.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29813,complete,USA: Mississippi,MS,Homo sapiens,oronasopharynx,2021-06-17
+MZ566150.1,2021-07-15T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29819,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-15
+MZ566192.1,2021-07-15T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29825,complete,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-06-15
+MZ566193.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29813,complete,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-06-16
+MZ566302.1,2021-07-15T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29823,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-14
+MZ566395.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29817,complete,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-06-12
+MZ566397.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29812,complete,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-06-15
+MZ566413.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29817,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-14
+MZ568101.1,2021-07-15T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29854,complete,"USA: Louisiana, Orleans",LA,Homo sapiens,oronasopharynx,2021-07-05
+MZ568102.1,2021-07-15T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29859,complete,"USA: Louisiana, Orleans",LA,Homo sapiens,oronasopharynx,2021-07-01
+MZ568103.1,2021-07-15T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29857,complete,"USA: Louisiana, Orleans",LA,Homo sapiens,oronasopharynx,2021-06-30
+MZ568104.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29843,complete,"USA: Louisiana, Orleans",LA,Homo sapiens,oronasopharynx,2021-07-01
+MZ568106.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29862,complete,"USA: Louisiana, Orleans",LA,Homo sapiens,oronasopharynx,2021-07-02
+MZ568107.1,2021-07-15T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29854,complete,"USA: Louisiana, Washington",LA,Homo sapiens,oronasopharynx,2021-06-28
+MZ560765.1,2021-07-14T00:00:00Z,B.1.265,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-12
+MZ560766.1,2021-07-14T00:00:00Z,B.1.1.519,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-12
+MZ560767.1,2021-07-14T00:00:00Z,B.1.1.519,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-12
+MZ560768.1,2021-07-14T00:00:00Z,B.1.2,Severe acute respiratory syndrome-related coronavirus,29815,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-12
+MZ560769.1,2021-07-14T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29833,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-28
+MZ560770.1,2021-07-14T00:00:00Z,C.37,Severe acute respiratory syndrome-related coronavirus,29788,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-30
+MZ560778.1,2021-07-14T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29809,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-28
+MZ560782.1,2021-07-14T00:00:00Z,B.1.298,Severe acute respiratory syndrome-related coronavirus,29818,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-13
+MZ560783.1,2021-07-14T00:00:00Z,B.1.243,Severe acute respiratory syndrome-related coronavirus,29817,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-13
+MZ560785.1,2021-07-14T00:00:00Z,B.1.2,Severe acute respiratory syndrome-related coronavirus,29817,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-13
+MZ560786.1,2021-07-14T00:00:00Z,B.1.1.519,Severe acute respiratory syndrome-related coronavirus,29815,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-13
+MZ560788.1,2021-07-14T00:00:00Z,B.1.234,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-14
+MZ560789.1,2021-07-14T00:00:00Z,B.1.517,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-14
+MZ560790.1,2021-07-14T00:00:00Z,B.1.243,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-12
+MZ560791.1,2021-07-14T00:00:00Z,B.1.2,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-18
+MZ560795.1,2021-07-14T00:00:00Z,B.1.2,Severe acute respiratory syndrome-related coronavirus,29815,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-19
+MZ560796.1,2021-07-14T00:00:00Z,B.1.2,Severe acute respiratory syndrome-related coronavirus,29818,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-19
+MZ560809.1,2021-07-14T00:00:00Z,B.1.243,Severe acute respiratory syndrome-related coronavirus,29865,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-01-20
+MZ560942.1,2021-07-14T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29826,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-27
+MZ560943.1,2021-07-14T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29827,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-27
+MZ560946.1,2021-07-14T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29753,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-28
+MZ560947.1,2021-07-14T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29745,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-27
+MZ560949.1,2021-07-14T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29818,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-24
+MZ560950.1,2021-07-14T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29827,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-25
+MZ560951.1,2021-07-14T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-25
+MZ560954.1,2021-07-14T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29829,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-25
+MZ560955.1,2021-07-14T00:00:00Z,B.1.214.3,Severe acute respiratory syndrome-related coronavirus,29776,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-28
+MZ560958.1,2021-07-14T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29819,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-26
+MZ560959.1,2021-07-14T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29830,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-07-02
+MZ560963.1,2021-07-14T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29816,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-28
+MZ560964.1,2021-07-14T00:00:00Z,C.37,Severe acute respiratory syndrome-related coronavirus,29752,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-26
+MZ560965.1,2021-07-14T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29818,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-28
+MZ560966.1,2021-07-14T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29813,complete,USA: MD,MD,Homo sapiens,oronasopharynx,2021-06-28
+MZ544647.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29826,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-26
+MZ544649.1,2021-07-13T00:00:00Z,B.1.351.3,Severe acute respiratory syndrome-related coronavirus,29810,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-22
+MZ544650.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29807,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-26
+MZ544651.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29817,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-07-01
+MZ544653.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29812,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-24
+MZ544654.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29815,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-07-01
+MZ544657.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29817,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-25
+MZ544660.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29818,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-07-01
+MZ544663.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29821,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-07-01
+MZ544664.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29827,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-22
+MZ544667.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29827,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-22
+MZ544668.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29826,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-22
+MZ544672.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29819,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-07-01
+MZ544676.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29826,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-07-01
+MZ544680.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29817,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-22
+MZ544683.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29785,complete,"USA: SC, LEXINGTON",SC,Homo sapiens,oronasopharynx,2021-06-18
+MZ544685.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29802,complete,"USA: SC, WHARTON",SC,Homo sapiens,oronasopharynx,2021-06-21
+MZ544686.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29793,complete,"USA: SC, LANCASTER",SC,Homo sapiens,oronasopharynx,2021-06-17
+MZ544689.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29764,complete,"USA: SC, SALUDA",SC,Homo sapiens,oronasopharynx,2021-06-17
+MZ544693.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29783,complete,"USA: SC, LEXINGTON",SC,Homo sapiens,oronasopharynx,2021-06-22
+MZ544694.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29785,complete,"USA: SC, LANCASTER",SC,Homo sapiens,oronasopharynx,2021-06-18
+MZ544705.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29812,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-14
+MZ544706.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29820,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-15
+MZ544714.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29805,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-17
+MZ544715.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29804,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-17
+MZ544736.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29814,complete,USA,,Homo sapiens,oronasopharynx,2021-05-26
+MZ544742.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29777,complete,USA,,Homo sapiens,oronasopharynx,2021-06-07
+MZ544745.1,2021-07-13T00:00:00Z,P.1.1,Severe acute respiratory syndrome-related coronavirus,29827,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-25
+MZ544748.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29813,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-16
+MZ544751.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29811,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-19
+MZ544752.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29825,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-25
+MZ544755.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29809,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-21
+MZ544756.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29805,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-18
+MZ544757.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29826,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-25
+MZ544760.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29786,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-06-16
+MZ544773.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29779,complete,"USA: SC, FLORENCE",SC,Homo sapiens,oronasopharynx,2021-06-30
+MZ544776.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29776,complete,"USA: SC, DORCHESTER",SC,Homo sapiens,oronasopharynx,2021-06-30
+MZ544868.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29843,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-03-05
+MZ544870.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29844,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-03-04
+MZ544880.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29828,complete,"USA: AZ, Maricopa",AZ,Homo sapiens,oronasopharynx,2021-03-04
+MZ553936.1,2021-07-13T00:00:00Z,B.1.612,Severe acute respiratory syndrome-related coronavirus,29746,complete,USA: Rhode Island,RI,Homo sapiens,oronasopharynx,2021-06-18
+MZ553939.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29692,complete,USA: New Hampshire,NH,Homo sapiens,oronasopharynx,2021-06-18
+MZ553940.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29645,complete,USA: New York,NY,Homo sapiens,oronasopharynx,2021-06-18
+MZ553942.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: New York,NY,Homo sapiens,oronasopharynx,2021-06-18
+MZ553944.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29741,complete,USA: New Hampshire,NH,Homo sapiens,oronasopharynx,2021-06-19
+MZ553945.1,2021-07-13T00:00:00Z,B.1.626,Severe acute respiratory syndrome-related coronavirus,29748,complete,USA: New Hampshire,NH,Homo sapiens,oronasopharynx,2021-06-22
+MZ553948.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-06-21
+MZ553950.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-22
+MZ553956.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29707,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-22
+MZ553969.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553971.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553973.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553974.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29644,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553975.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-21
+MZ553976.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553981.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-21
+MZ553982.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553983.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-21
+MZ553984.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29706,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553986.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29727,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553988.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29769,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553991.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553993.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ553994.1,2021-07-13T00:00:00Z,B.1,Severe acute respiratory syndrome-related coronavirus,29719,complete,USA: New York,NY,Homo sapiens,oronasopharynx,2021-06-22
+MZ553996.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29674,complete,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-06-23
+MZ553998.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-23
+MZ553999.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29678,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-23
+MZ554004.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554006.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29727,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-23
+MZ554008.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29747,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-23
+MZ554023.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ554024.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ554025.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29658,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ554027.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ554028.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554029.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29677,complete,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554032.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554035.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554036.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554037.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29727,complete,USA: Maryland,MD,Homo sapiens,oronasopharynx,2021-06-23
+MZ554048.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554050.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29695,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-22
+MZ554051.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29721,complete,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554053.1,2021-07-13T00:00:00Z,C.36.3.1,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-24
+MZ554055.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554061.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29676,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554063.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29734,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-24
+MZ554066.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29708,complete,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554067.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554068.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29645,complete,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-06-24
+MZ554069.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-24
+MZ554070.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554073.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29767,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554078.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29676,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554080.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29734,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554081.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29771,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554089.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554090.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29756,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-23
+MZ554093.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554095.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29678,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554100.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554103.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554105.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554106.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554107.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554112.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29574,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554119.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554121.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554125.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554126.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554129.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554130.1,2021-07-13T00:00:00Z,C.37,Severe acute respiratory syndrome-related coronavirus,29750,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554131.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29772,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554132.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29727,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554133.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554137.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29679,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554141.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29727,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554142.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29645,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554146.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29772,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554147.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-24
+MZ554150.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-26
+MZ554156.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-25
+MZ554161.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29705,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-16
+MZ554163.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-06-16
+MZ554164.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Louisiana,LA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554167.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-06-19
+MZ554169.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29662,complete,USA: Mississippi,MS,Homo sapiens,oronasopharynx,2021-06-19
+MZ554178.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29708,complete,USA: Kansas,KS,Homo sapiens,oronasopharynx,2021-06-20
+MZ554180.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-21
+MZ554182.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Louisiana,LA,Homo sapiens,oronasopharynx,2021-06-21
+MZ554183.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29789,complete,USA: Kansas,KS,Homo sapiens,oronasopharynx,2021-06-20
+MZ554190.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Missouri,MO,Homo sapiens,oronasopharynx,2021-06-21
+MZ554207.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-22
+MZ554211.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-24
+MZ554212.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: New York,NY,Homo sapiens,oronasopharynx,2021-06-24
+MZ554216.1,2021-07-13T00:00:00Z,B.1.626,Severe acute respiratory syndrome-related coronavirus,29653,complete,USA: Rhode Island,RI,Homo sapiens,oronasopharynx,2021-06-25
+MZ554217.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29749,complete,USA: New Hampshire,NH,Homo sapiens,oronasopharynx,2021-06-25
+MZ554222.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: New Hampshire,NH,Homo sapiens,oronasopharynx,2021-06-26
+MZ554225.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29634,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-27
+MZ554227.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29708,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-27
+MZ554228.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29739,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-27
+MZ554231.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29741,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-27
+MZ554233.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-27
+MZ554242.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-26
+MZ554244.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29766,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-26
+MZ554250.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29679,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-28
+MZ554256.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29682,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554258.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29708,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554259.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29699,complete,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554264.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29708,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-28
+MZ554275.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-06-28
+MZ554280.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554283.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554286.1,2021-07-13T00:00:00Z,C.37,Severe acute respiratory syndrome-related coronavirus,29747,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554287.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554292.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-28
+MZ554293.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-28
+MZ554294.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29772,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-27
+MZ554310.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554313.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-27
+MZ554317.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29727,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554325.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-06-28
+MZ554327.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-06-28
+MZ554334.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-16
+MZ554336.1,2021-07-13T00:00:00Z,B.1,Severe acute respiratory syndrome-related coronavirus,29780,complete,USA: Oklahoma,OK,Homo sapiens,oronasopharynx,2021-06-16
+MZ554338.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29767,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-16
+MZ554339.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-17
+MZ554344.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29645,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-18
+MZ554345.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29767,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-18
+MZ554347.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-19
+MZ554353.1,2021-07-13T00:00:00Z,B.1.466.2,Severe acute respiratory syndrome-related coronavirus,29780,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-20
+MZ554358.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-21
+MZ554369.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29772,complete,USA: Louisiana,LA,Homo sapiens,oronasopharynx,2021-06-22
+MZ554370.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29771,complete,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-06-22
+MZ554381.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-20
+MZ554383.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-21
+MZ554387.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-21
+MZ554388.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-21
+MZ554392.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-21
+MZ554393.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-20
+MZ554397.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-21
+MZ554419.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Ohio,OH,Homo sapiens,oronasopharynx,2021-06-22
+MZ554425.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-22
+MZ554426.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-22
+MZ554430.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29670,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-22
+MZ554431.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-23
+MZ554437.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-23
+MZ554442.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-22
+MZ554451.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29547,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-23
+MZ554465.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-23
+MZ554467.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29703,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-23
+MZ554470.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29740,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-23
+MZ554473.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Arkansas,AR,Homo sapiens,oronasopharynx,2021-06-23
+MZ554478.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Arkansas,AR,Homo sapiens,oronasopharynx,2021-06-23
+MZ554493.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ554505.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29646,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-24
+MZ554521.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29695,complete,USA: New Mexico,NM,Homo sapiens,oronasopharynx,2021-06-24
+MZ554522.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: New Mexico,NM,Homo sapiens,oronasopharynx,2021-06-24
+MZ554540.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29645,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-24
+MZ554558.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29646,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-24
+MZ554569.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Utah,UT,Homo sapiens,oronasopharynx,2021-06-24
+MZ554571.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-24
+MZ554574.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29645,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-23
+MZ554578.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-23
+MZ554580.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29776,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-23
+MZ554583.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29706,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-22
+MZ554586.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-23
+MZ554587.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-23
+MZ554595.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-25
+MZ554601.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29646,complete,USA: New Mexico,NM,Homo sapiens,oronasopharynx,2021-06-24
+MZ554602.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-25
+MZ554618.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-25
+MZ554624.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-25
+MZ554625.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-25
+MZ554628.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-25
+MZ554630.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29679,complete,USA: Arkansas,AR,Homo sapiens,oronasopharynx,2021-06-25
+MZ554638.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Montana,MT,Homo sapiens,oronasopharynx,2021-06-25
+MZ554646.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-24
+MZ554651.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29778,complete,USA: Utah,UT,Homo sapiens,oronasopharynx,2021-06-25
+MZ554653.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Colorado,CO,Homo sapiens,oronasopharynx,2021-06-25
+MZ554664.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-21
+MZ554666.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-21
+MZ554667.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29730,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-22
+MZ554669.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-22
+MZ554677.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29671,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-26
+MZ554682.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29678,complete,USA: Missouri,MO,Homo sapiens,oronasopharynx,2021-06-23
+MZ554686.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Ohio,OH,Homo sapiens,oronasopharynx,2021-06-23
+MZ554692.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-24
+MZ554693.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29678,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-24
+MZ554705.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29678,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-25
+MZ554708.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29670,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-25
+MZ554718.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-25
+MZ554728.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-24
+MZ554743.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-26
+MZ554749.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-27
+MZ554758.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29675,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-26
+MZ554773.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: New Mexico,NM,Homo sapiens,oronasopharynx,2021-06-26
+MZ554774.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-26
+MZ554778.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-26
+MZ554787.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Utah,UT,Homo sapiens,oronasopharynx,2021-06-28
+MZ554789.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-28
+MZ554799.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-27
+MZ554803.1,2021-07-13T00:00:00Z,A.2.5,Severe acute respiratory syndrome-related coronavirus,29746,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-28
+MZ554810.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29708,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-27
+MZ554820.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-28
+MZ554841.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29636,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-27
+MZ554849.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29679,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-26
+MZ554850.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-29
+MZ554857.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29693,complete,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-06-16
+MZ554858.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-15
+MZ554861.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-16
+MZ554862.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-16
+MZ554865.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29574,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-17
+MZ554867.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-17
+MZ554870.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554871.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554874.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-17
+MZ554875.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29756,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-17
+MZ554876.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29548,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554877.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29640,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554881.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29646,complete,USA: Missouri,MO,Homo sapiens,oronasopharynx,2021-06-17
+MZ554882.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: Ohio,OH,Homo sapiens,oronasopharynx,2021-06-17
+MZ554885.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29587,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554886.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554889.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554891.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: Ohio,OH,Homo sapiens,oronasopharynx,2021-06-16
+MZ554892.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29674,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-17
+MZ554894.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29795,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-17
+MZ554895.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-17
+MZ554904.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29606,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-16
+MZ554905.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-16
+MZ554911.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29573,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-18
+MZ554921.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29697,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-18
+MZ554922.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-18
+MZ554923.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554924.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29789,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-18
+MZ554933.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-18
+MZ554938.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-06-18
+MZ554939.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29707,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-17
+MZ554940.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29698,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-17
+MZ554944.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29606,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554945.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-17
+MZ554946.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-17
+MZ554953.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-19
+MZ554955.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29727,complete,USA: New Mexico,NM,Homo sapiens,oronasopharynx,2021-06-19
+MZ554956.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: New Mexico,NM,Homo sapiens,oronasopharynx,2021-06-19
+MZ554959.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-19
+MZ554968.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-19
+MZ554970.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-18
+MZ554972.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29618,complete,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-06-19
+MZ554984.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29756,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-19
+MZ554985.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29606,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-19
+MZ554991.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29678,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-18
+MZ554993.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-18
+MZ554995.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-19
+MZ555002.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29607,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-20
+MZ555007.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-20
+MZ555009.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-20
+MZ555010.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29743,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-20
+MZ555011.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29574,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-20
+MZ555012.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29695,complete,USA: Utah,UT,Homo sapiens,oronasopharynx,2021-06-19
+MZ555015.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29789,complete,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-06-20
+MZ555023.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-20
+MZ555026.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29645,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-20
+MZ555032.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29759,complete,USA: New Mexico,NM,Homo sapiens,oronasopharynx,2021-06-20
+MZ555035.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-20
+MZ555036.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29645,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-21
+MZ555041.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-21
+MZ555052.1,2021-07-13T00:00:00Z,A.2.5,Severe acute respiratory syndrome-related coronavirus,29780,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-21
+MZ555054.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-21
+MZ555058.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29645,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-21
+MZ555063.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29767,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555066.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-20
+MZ555076.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: Nevada,NV,Homo sapiens,oronasopharynx,2021-06-21
+MZ555086.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29678,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555090.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29607,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555104.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29727,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555105.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29789,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555107.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: Montana,MT,Homo sapiens,oronasopharynx,2021-06-20
+MZ555113.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29695,complete,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-06-21
+MZ555121.1,2021-07-13T00:00:00Z,A.2.5,Severe acute respiratory syndrome-related coronavirus,29717,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-21
+MZ555124.1,2021-07-13T00:00:00Z,A.2.5,Severe acute respiratory syndrome-related coronavirus,29780,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-21
+MZ555128.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29709,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-22
+MZ555129.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-22
+MZ555130.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-22
+MZ555134.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29693,complete,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-06-22
+MZ555136.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-06-22
+MZ555139.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-22
+MZ555150.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Arkansas,AR,Homo sapiens,oronasopharynx,2021-06-22
+MZ555153.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Oklahoma,OK,Homo sapiens,oronasopharynx,2021-06-21
+MZ555161.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29695,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555162.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555163.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555167.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29646,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555169.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555170.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29632,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555171.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29767,complete,USA: California,CA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555173.1,2021-07-13T00:00:00Z,A.2.5,Severe acute respiratory syndrome-related coronavirus,29534,complete,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-06-23
+MZ555175.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29727,complete,USA: Montana,MT,Homo sapiens,oronasopharynx,2021-06-22
+MZ555176.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-06-20
+MZ555178.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-06-20
+MZ555182.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-06-20
+MZ555187.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29790,complete,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-06-19
+MZ555193.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-06-21
+MZ555202.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29665,complete,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-06-21
+MZ555209.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29556,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-21
+MZ555211.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29760,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-21
+MZ555212.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29496,complete,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-06-21
+MZ555215.1,2021-07-13T00:00:00Z,P.1,Severe acute respiratory syndrome-related coronavirus,29679,complete,USA: Maryland,MD,Homo sapiens,oronasopharynx,2021-06-21
+MZ555223.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29789,complete,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-06-21
+MZ555227.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: South Carolina,SC,Homo sapiens,oronasopharynx,2021-06-21
+MZ555230.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29762,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-20
+MZ555231.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-21
+MZ555232.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29673,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-21
+MZ555242.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-22
+MZ555245.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29713,complete,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-06-21
+MZ555248.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-22
+MZ555249.1,2021-07-13T00:00:00Z,A.2.5.1,Severe acute respiratory syndrome-related coronavirus,29717,complete,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-06-22
+MZ555258.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29664,complete,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-06-22
+MZ555263.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-22
+MZ555270.1,2021-07-13T00:00:00Z,P.3,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-06-22
+MZ555271.1,2021-07-13T00:00:00Z,P.3,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-06-22
+MZ555273.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29728,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555277.1,2021-07-13T00:00:00Z,B.1.617.2,Severe acute respiratory syndrome-related coronavirus,29773,complete,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-06-21
+MZ555279.1,2021-07-13T00:00:00Z,C.37,Severe acute respiratory syndrome-related coronavirus,29621,complete,USA: District of Columbia,DC,Homo sapiens,oronasopharynx,2021-06-22
+MZ555282.1,2021-07-13T00:00:00Z,B.1.1.7,Severe acute respiratory syndrome-related coronavirus,29761,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-22
+MZ555283.1,2021-07-13T00:00:00Z,B.1.526,Severe acute respiratory syndrome-related coronavirus,29770,complete,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-06-22
